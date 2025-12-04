@@ -1,0 +1,11 @@
+git status 
+git add .
+git status
+git status
+git commit -m "added testing files"
+git restore testing.py
+clear
+git status
+git remote -v
+git origin  https://github.com/Nitish8979/git-for-devops.git (push)
+git push origin master
